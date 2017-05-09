@@ -12,6 +12,10 @@ namespace WebApiFluentValidation.Controllers
     {
         public IHttpActionResult Get([FromUri]Customer customer)
         {
+            if (ModelState.IsValid)
+            {
+                return BadRequest();
+            }
            
                 return Ok();
              

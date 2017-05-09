@@ -1,0 +1,17 @@
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\Tests.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\Tests.pdb
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\nunit.framework.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\System.Web.Http.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\FluentValidation.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\FluentValidation.WebApi.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\nunit.framework.xml
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\System.Web.Http.xml
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\FluentValidation.xml
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\FluentValidation.WebApi.xml
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\obj\Debug\Tests.dll
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\obj\Debug\Tests.pdb
+C:\Project\MarsTechLtd\WebApiFluentValidation\Tests\bin\Debug\Tests.dll.config
