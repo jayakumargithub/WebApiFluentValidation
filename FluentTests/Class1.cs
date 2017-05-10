@@ -24,11 +24,20 @@ namespace FluentTests
 
             var customerValidator = new CustomerValidator();
             var customer = new Customer();
-         var d =    customerValidator.ShouldHaveValidationErrorFor(c => c.Address, customer);
+            customer.Address  =  new  Address {AddressLine1 = "pppppp"};
+           customerValidator.ShouldHaveChildValidator(c => c.Address, typeof(AddressValidator));
 
            
-            Assert.AreEqual(d, "Address can not be null");
+           // Assert.AreEqual(, "Address can not be null");
 
+        }
+
+        [Test]
+        public void Test1()
+        {
+            var addressValidator = new AddressValidator();
+            var a = new Address();
+           var d =  addressValidator.ShouldHaveValidationErrorFor(c => c.AddressLine1, a);
         }
     }
 }
